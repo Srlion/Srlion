@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![A](https://github-readme-stats.vercel.app/api/top-langs/?username=Srlion&theme=dracula&layout=compact&hide_border=true&langs_count=10)](https://github.com/Srlion)
+
+[![B](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Srlion)](https://github.com/Srlion)
 
 <!--
 **Srlion/Srlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
